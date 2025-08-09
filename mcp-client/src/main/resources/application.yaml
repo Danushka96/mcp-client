@@ -1,0 +1,24 @@
+server:
+    port: 8081
+
+spring:
+  application:
+    name: mcp-client
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+      chat:
+        options:
+          model: gpt-4o
+#    mcp:
+#      client:
+#        enabled: true
+#        name: my-mcp-client
+#        version: 1.0.0
+#        type: sync
+#        request-timeout: 30s
+#        sse:
+#          connections:
+#            server1:
+#              url: http://localhost:8080
+#              sse-endpoint: /sse

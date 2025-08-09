@@ -1,0 +1,138 @@
+2025-08-09T09:57:48.350+05:30  INFO 83086 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 83086 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T09:57:48.351+05:30  INFO 83086 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T09:57:49.227+05:30  INFO 83086 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T09:57:49.228+05:30  INFO 83086 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T09:57:49.228+05:30  INFO 83086 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T09:57:49.228+05:30  INFO 83086 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T09:57:49.228+05:30  INFO 83086 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T09:57:51.399+05:30  WARN 83086 --- [mcp] [main] onfigReactiveWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-08-09T09:57:51.421+05:30  INFO 83086 --- [mcp] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-08-09T09:57:51.437+05:30 ERROR 83086 --- [mcp] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-08-09T10:00:38.484+05:30  INFO 83265 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 83265 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T10:00:38.485+05:30  INFO 83265 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T10:00:39.289+05:30  INFO 83265 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T10:00:39.289+05:30  INFO 83265 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T10:00:39.289+05:30  INFO 83265 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T10:00:39.290+05:30  INFO 83265 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T10:00:39.290+05:30  INFO 83265 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T10:00:41.455+05:30  WARN 83265 --- [mcp] [main] onfigReactiveWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-08-09T10:00:41.478+05:30  INFO 83265 --- [mcp] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-08-09T10:00:41.494+05:30 ERROR 83265 --- [mcp] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-08-09T10:00:51.607+05:30  INFO 83680 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 83680 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T10:00:51.609+05:30  INFO 83680 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T10:00:52.613+05:30  INFO 83682 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 83682 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T10:00:52.615+05:30  INFO 83682 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T10:00:53.071+05:30  INFO 83680 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T10:00:53.073+05:30  INFO 83680 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T10:00:53.073+05:30  INFO 83680 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T10:00:53.073+05:30  INFO 83680 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T10:00:53.073+05:30  INFO 83680 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T10:00:53.237+05:30  INFO 83680 --- [mcp] [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-08-09T10:00:53.243+05:30  INFO 83680 --- [mcp] [main] lk.klass.mcp.McpApplication              : Started McpApplication in 2.04 seconds (process running for 2.893)
+2025-08-09T10:00:53.718+05:30  INFO 83682 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T10:00:53.719+05:30  INFO 83682 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T10:00:53.719+05:30  INFO 83682 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T10:00:53.719+05:30  INFO 83682 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T10:00:53.719+05:30  INFO 83682 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T10:00:54.239+05:30  WARN 83682 --- [mcp] [main] o.s.c.support.DefaultLifecycleProcessor  : Failed to stop bean 'reactorResourceFactory'
+
+reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException
+	at reactor.core.Exceptions.propagate(Exceptions.java:410) ~[reactor-core-3.7.7.jar:3.7.7]
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:96) ~[reactor-core-3.7.7.jar:3.7.7]
+	at reactor.core.publisher.Mono.block(Mono.java:1779) ~[reactor-core-3.7.7.jar:3.7.7]
+	at org.springframework.http.client.ReactorResourceFactory.stop(ReactorResourceFactory.java:298) ~[spring-web-6.2.8.jar:6.2.8]
+	at org.springframework.context.SmartLifecycle.stop(SmartLifecycle.java:120) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStop(DefaultLifecycleProcessor.java:463) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.stop(DefaultLifecycleProcessor.java:618) ~[spring-context-6.2.8.jar:6.2.8]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.context.support.DefaultLifecycleProcessor.stopBeans(DefaultLifecycleProcessor.java:432) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:315) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:1006) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:630) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.3.jar:3.5.3]
+	at lk.klass.mcp.McpApplication.main(McpApplication.java:15) ~[classes/:na]
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1100) ~[na:na]
+	at java.base/java.util.concurrent.CountDownLatch.await(CountDownLatch.java:230) ~[na:na]
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:91) ~[reactor-core-3.7.7.jar:3.7.7]
+	... 17 common frames omitted
+
+2025-08-09T10:00:54.242+05:30  WARN 83682 --- [mcp] [main] onfigReactiveWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-08-09T10:03:19.831+05:30  INFO 83680 --- [mcp] [reactor-http-nio-1] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=RootCapabilities[listChanged=true], sampling=Sampling[]], Info: Implementation[name=mcp-inspector, version=0.15.0]
+2025-08-09T10:03:19.842+05:30  WARN 83680 --- [mcp] [reactor-http-nio-1] i.m.server.McpAsyncServer                : Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2025-08-09T10:09:42.017+05:30  INFO 83680 --- [mcp] [SpringApplicationShutdownHook] o.s.b.w.embedded.netty.GracefulShutdown  : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-09T11:57:29.552+05:30  INFO 6054 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 6054 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T11:57:29.554+05:30  INFO 6054 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T11:57:30.506+05:30  INFO 6054 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T11:57:30.507+05:30  INFO 6054 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T11:57:30.507+05:30  INFO 6054 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T11:57:30.507+05:30  INFO 6054 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T11:57:30.507+05:30  INFO 6054 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T11:57:30.595+05:30  INFO 6054 --- [mcp] [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-08-09T11:57:30.601+05:30  INFO 6054 --- [mcp] [main] lk.klass.mcp.McpApplication              : Started McpApplication in 1.278 seconds (process running for 2.468)
+2025-08-09T12:21:59.019+05:30  INFO 6054 --- [mcp] [SpringApplicationShutdownHook] o.s.b.w.embedded.netty.GracefulShutdown  : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-09T12:21:59.025+05:30  INFO 6054 --- [mcp] [netty-shutdown] o.s.b.w.embedded.netty.GracefulShutdown  : Graceful shutdown complete
+2025-08-09T12:22:01.421+05:30  INFO 7364 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 7364 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T12:22:01.422+05:30  INFO 7364 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T12:22:02.243+05:30  INFO 7364 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T12:22:02.244+05:30  INFO 7364 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T12:22:02.244+05:30  INFO 7364 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T12:22:02.244+05:30  INFO 7364 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T12:22:02.244+05:30  INFO 7364 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T12:22:02.328+05:30  INFO 7364 --- [mcp] [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-08-09T12:22:02.333+05:30  INFO 7364 --- [mcp] [main] lk.klass.mcp.McpApplication              : Started McpApplication in 1.121 seconds (process running for 1.777)
+2025-08-09T12:22:22.536+05:30  INFO 7364 --- [mcp] [SpringApplicationShutdownHook] o.s.b.w.embedded.netty.GracefulShutdown  : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-09T12:22:22.540+05:30  INFO 7364 --- [mcp] [netty-shutdown] o.s.b.w.embedded.netty.GracefulShutdown  : Graceful shutdown complete
+2025-08-09T12:22:27.051+05:30  INFO 7392 --- [mcp] [main] lk.klass.mcp.McpApplication              : Starting McpApplication using Java 23.0.1 with PID 7392 (/Users/danushkaherath/mcp/mcp-server/target/classes started by danushkaherath in /Users/danushkaherath/mcp/mcp-server)
+2025-08-09T12:22:27.052+05:30  INFO 7392 --- [mcp] [main] lk.klass.mcp.McpApplication              : No active profile set, falling back to 1 default profile: "default"
+2025-08-09T12:22:27.875+05:30  INFO 7392 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-09T12:22:27.876+05:30  INFO 7392 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-08-09T12:22:27.876+05:30  INFO 7392 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-09T12:22:27.876+05:30  INFO 7392 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-09T12:22:27.876+05:30  INFO 7392 --- [mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-09T12:22:27.955+05:30  INFO 7392 --- [mcp] [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-08-09T12:22:27.961+05:30  INFO 7392 --- [mcp] [main] lk.klass.mcp.McpApplication              : Started McpApplication in 1.11 seconds (process running for 1.734)
+2025-08-09T12:22:33.615+05:30  INFO 7392 --- [mcp] [reactor-http-nio-3] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:23:14.001+05:30  INFO 7392 --- [mcp] [reactor-http-nio-8] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:23:42.573+05:30  INFO 7392 --- [mcp] [reactor-http-nio-3] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:29:09.629+05:30  INFO 7392 --- [mcp] [reactor-http-nio-7] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:30:21.193+05:30  INFO 7392 --- [mcp] [reactor-http-nio-2] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:33:26.012+05:30  INFO 7392 --- [mcp] [reactor-http-nio-5] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:35:50.890+05:30  INFO 7392 --- [mcp] [reactor-http-nio-8] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:36:08.383+05:30  INFO 7392 --- [mcp] [reactor-http-nio-3] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=my-mcp-client - server1, version=1.0.0]
+2025-08-09T12:44:57.881+05:30  INFO 7392 --- [mcp] [SpringApplicationShutdownHook] o.s.b.w.embedded.netty.GracefulShutdown  : Commencing graceful shutdown. Waiting for active requests to complete
