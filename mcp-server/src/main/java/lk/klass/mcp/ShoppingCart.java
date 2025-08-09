@@ -35,7 +35,4 @@ public class ShoppingCart {
     public List<ShoppingItem> getShoppingList() {
         return new ArrayList<>(shoppingList.values());
     }
-
-
-
 }
